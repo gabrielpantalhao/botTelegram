@@ -56,7 +56,7 @@ async def devocional(update: Update, context: ContextTypes.DEFAULT_TYPE):
 #   MAIN
 # -----------------------------------------
 def main():
-    TOKEN = "COLOQUE_SEU_TOKEN_AQUI"
+    TOKEN = "8478210121:AAHXe_z_waj8gP040_xESMOXQRJmZ74TwKo"
 
     app = ApplicationBuilder().token(TOKEN).build()
 
